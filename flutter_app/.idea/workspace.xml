@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebe0a38a-404e-4414-8644-65871ff31fe3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_27_-_Teste" />
+  <component name="ProjectId" id="1WjI8hZp2iApHIVMtP01FMxMI60" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="flutter_app_One" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="flutter_app_One" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebe0a38a-404e-4414-8644-65871ff31fe3" name="Default Changelist" comment="" />
+      <created>1579572183357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579572183357</updated>
+      <workItem from="1579656431621" duration="21000" />
+      <workItem from="1579656484935" duration="1719000" />
+      <workItem from="1579709755735" duration="2124000" />
+      <workItem from="1579799399385" duration="7208000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1712" y="76" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579656436306">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1712" y="76" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1366.0.1366.768/0.27.1366.696@1366.0.1366.768" timestamp="1579656436306" />
+    <state width="1320" height="161" key="GridCell.Tab.0.bottom" timestamp="1579805993762">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="161" key="GridCell.Tab.0.bottom/1366.0.1366.768/0.27.1366.696@1366.0.1366.768" timestamp="1579805993762" />
+    <state width="1320" height="161" key="GridCell.Tab.0.center" timestamp="1579805993762">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="161" key="GridCell.Tab.0.center/1366.0.1366.768/0.27.1366.696@1366.0.1366.768" timestamp="1579805993762" />
+    <state width="1320" height="161" key="GridCell.Tab.0.left" timestamp="1579805993762">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="161" key="GridCell.Tab.0.left/1366.0.1366.768/0.27.1366.696@1366.0.1366.768" timestamp="1579805993762" />
+    <state width="1320" height="161" key="GridCell.Tab.0.right" timestamp="1579805993762">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="161" key="GridCell.Tab.0.right/1366.0.1366.768/0.27.1366.696@1366.0.1366.768" timestamp="1579805993762" />
+    <state x="1531" y="27" width="1022" height="730" key="SettingsEditor" timestamp="1579800746942">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1531" y="27" width="1022" height="730" key="SettingsEditor/1366.0.1366.768/0.27.1366.696@1366.0.1366.768" timestamp="1579800746942" />
+    <state x="1685" y="175" key="com.intellij.ide.util.TipDialog" timestamp="1579799397376">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1685" y="175" key="com.intellij.ide.util.TipDialog/1366.0.1366.768/0.27.1366.696@1366.0.1366.768" timestamp="1579799397376" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1579803703389">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/1366.0.1366.768/0.27.1366.696@1366.0.1366.768" timestamp="1579803703389" />
+    <state x="1713" y="164" key="run.anything.popup" timestamp="1579800982452">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1713" y="164" key="run.anything.popup/1366.0.1366.768/0.27.1366.696@1366.0.1366.768" timestamp="1579800982452" />
+  </component>
+</project>
